@@ -21,12 +21,13 @@ Algorithms
 Array and LinkedList - 2022-12-28
 
 Software Testing
-Fuzzing
-
+Fuzzing - 2023-01-20
 Korat - test generation tools - 2023-01-30
+Randoop - test generation tools - 2023-01-31
 
 Algorithm Trading and HFT
 上周完成了Order Imbalance分析 - 2023-01-16
 
 Trading Costs and Electronic Markets - 2022-12-25
 
+IPO tickers are collected using PAD API which uses Bloomberg APIs. The IPO information is not used by ATP placement. Checked ICO information on CoinGecKo but it only shows new coins on CoinGecKo. We can monitor ICO tickers for any trading opportunities. - 2023-01-31
