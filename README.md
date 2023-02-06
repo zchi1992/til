@@ -9,10 +9,15 @@ docker start guide - 2023-01-21
 C++
 短时间内学习了C++基本语法，编译流程和LLVM framework
 
+CMake
+Went through [CMake tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html#introduction) - 2023-01-24
+
 LLVM
-LLVM framework - 2023-01-21
+LLVM framework - 2023-01-24
 
 Clang
+Went through [Make/Makefile intro](https://www.gnu.org/software/make/manual/html_node/Introduction.html) - 2023-01-24
+
 
 Python
 Pandas library以及数据存储和读取方式 - 2023-01-15
