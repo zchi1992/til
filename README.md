@@ -1,5 +1,5 @@
 # Today I learned 
-Programming, computing techniques, Algorithm trading notes, etc. I learned day to day. Inspired by badboy/til and branchaud/til.
+Programming, computing techniques, Algorithm trading notes, etc. I learned day to day. Inspired by [simonw/til](https://github.com/simonw/til) and [jbranchaud/til](https://github.com/jbranchaud/til).
 
 TODO: list timestamp at the beginning
 
