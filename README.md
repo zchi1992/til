@@ -19,9 +19,11 @@ LLVM framework - 2023-01-24
 Clang
 Went through [Make/Makefile intro](https://www.gnu.org/software/make/manual/html_node/Introduction.html) - 2023-01-24
 
-
 Python
 Pandas library以及数据存储和读取方式 - 2023-01-15
+
+Linux/Unix
+2023-02-06 Linux file descriptor/redirection
 
 Algorithms
 Array and LinkedList - 2022-12-28
