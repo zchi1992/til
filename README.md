@@ -3,9 +3,13 @@ Programming, computing techniques, Algorithm trading notes, etc. I learned day t
 
 ## TODO:
 - [ ]  list timestamp at the beginning
+- [ ]  make a local repository
+
+## VSCode
+2023-02-07 Working with container in VSCode[Dev Container](https://code.visualstudio.com/docs/devcontainers/containers)
 
 ## Docker
-docker start guide - 2023-01-21
+2023-01-21 Went through docker start guide
 
 ## C++
 短时间内学习了C++基本语法，编译流程和LLVM framework
