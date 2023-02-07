@@ -23,7 +23,7 @@ Went through [Make/Makefile intro](https://www.gnu.org/software/make/manual/html
 Pandas library以及数据存储和读取方式 - 2023-01-15
 
 ## Linux/Unix
-###2023-02-06 Linux file descriptor/redirection
+### 2023-02-06 Linux file descriptor/redirection
 [What is Redirection?](https://www.guru99.com/linux-redirection.html)
 `>`: STDOUT redirection
 `>>`: STDOUT redirection but only append rather than overwritting
