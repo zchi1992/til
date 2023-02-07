@@ -1,28 +1,28 @@
 # Today I learned 
 Programming, computing techniques, Algorithm trading notes, etc. I learned day to day. Inspired by [simonw/til](https://github.com/simonw/til) and [jbranchaud/til](https://github.com/jbranchaud/til).
 
-##TODO:
+## TODO:
 - [ ]  list timestamp at the beginning
 
-##Docker
+## Docker
 docker start guide - 2023-01-21
 
-##C++
+## C++
 短时间内学习了C++基本语法，编译流程和LLVM framework
 
-##CMake
+## CMake
 Went through [CMake tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html#introduction) - 2023-01-24
 
-##LLVM
+## LLVM
 LLVM framework - 2023-01-24
 
-##Clang
+## Clang
 Went through [Make/Makefile intro](https://www.gnu.org/software/make/manual/html_node/Introduction.html) - 2023-01-24
 
-##Python
+## Python
 Pandas library以及数据存储和读取方式 - 2023-01-15
 
-##Linux/Unix
+## Linux/Unix
 ###2023-02-06 Linux file descriptor/redirection
 [What is Redirection?](https://www.guru99.com/linux-redirection.html)
 `>`: STDOUT redirection
@@ -32,16 +32,16 @@ Pandas library以及数据存储和读取方式 - 2023-01-15
 `ls Documents ABC> dirlist 2>&1` STDERR redirects to target of STDOUT, which is dirlist file
 
 
-##Algorithms
+## Algorithms
 Array and LinkedList - 2022-12-28
 
-##Software Testing
+## Software Testing
 Fuzzing - 2023-01-20
 Korat - test generation tools - 2023-01-30
 Randoop - test generation tools - 2023-01-31
 2023-02-04 Dataflow analysis: Reaching Definition Analysis, Available Expression Analysis, Live Variable Analysis, Very Busy Expression Analysis
 
-##Algorithm Trading and HFT
+## Algorithm Trading and HFT
 上周完成了Order Imbalance分析 - 2023-01-16
 
 Trading Costs and Electronic Markets - 2022-12-25
