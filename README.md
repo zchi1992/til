@@ -24,6 +24,13 @@ Pandas library以及数据存储和读取方式 - 2023-01-15
 
 Linux/Unix
 2023-02-06 Linux file descriptor/redirection
+[What is Redirection?](https://www.guru99.com/linux-redirection.html)
+`>`: STDOUT redirection
+`>>`: STDOUT redirection but only append rather than overwritting
+`2>`: STDERR redirection
+`<`: STDIN redirection
+`ls Documents ABC> dirlist 2>&1` STDERR redirects to target of STDOUT, which is dirlist file
+
 
 Algorithms
 Array and LinkedList - 2022-12-28
