@@ -12,7 +12,9 @@ Programming, computing techniques, Algorithm trading notes, etc. I learned day t
 2023-01-21 Went through docker start guide
 
 ## C++
-短时间内学习了C++基本语法，编译流程和LLVM framework
+2023-01-30 短时间内学习了C++基本语法，编译流程和LLVM framework \\
+2023-02-08 Difference between std::vector and std::array \\
+
 
 ## CMake
 Went through [CMake tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html#introduction) - 2023-01-24
