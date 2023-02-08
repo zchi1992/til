@@ -13,14 +13,17 @@ Programming, computing techniques, Algorithm trading notes, etc. I learned day t
 
 ## C++
 2023-01-30 短时间内学习了C++基本语法，编译流程和LLVM framework  
-2023-02-08 Difference between std::vector and std::array  
+2023-02-08 Difference between `std::vector` and `std::array`.  
+2023-02-09 Access Modifier: public, private, protected, friends.  
+2023-02-09 keywords: virtue, using, static, namespace
 
 
 ## CMake
 Went through [CMake tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html#introduction) - 2023-01-24
 
 ## LLVM
-LLVM framework - 2023-01-24
+LLVM framework - 2023-01-24.  
+2023-02-09 LLVM BasicBlocks, FunctionPass, Iterator
 
 ## Clang
 Went through [Make/Makefile intro](https://www.gnu.org/software/make/manual/html_node/Introduction.html) - 2023-01-24
