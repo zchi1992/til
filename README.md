@@ -24,6 +24,11 @@ Went through [CMake tutorial](https://cmake.org/cmake/help/latest/guide/tutorial
 ## LLVM
 LLVM framework - 2023-01-24.  
 2023-02-09 LLVM BasicBlocks, FunctionPass, Iterator
+2023-02-09 
+> `align <n> or align(<n>)`
+This indicates that the pointer value or vector of pointers has the specified alignment. If applied to a vector of pointers, all pointers (elements) have the specified alignment. If the pointer value does not have the specified alignment, poison value is returned or passed instead. The align attribute should be combined with the noundef attribute to ensure a pointer is aligned, or otherwise the behavior is undefined. Note that align 1 has no effect on non-byval, non-preallocated arguments.  
+
+Note that this attribute has additional semantics when combined with the byval or preallocated attribute, which are documented there.  
 
 ## Clang
 Went through [Make/Makefile intro](https://www.gnu.org/software/make/manual/html_node/Introduction.html) - 2023-01-24
