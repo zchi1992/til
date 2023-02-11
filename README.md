@@ -6,7 +6,7 @@ Programming, computing techniques, Algorithm trading notes, etc. I learned day t
 - [ ]  make a local repository
 
 ## VSCode
-2023-02-07 Working with container in VSCode[Dev Container](https://code.visualstudio.com/docs/devcontainers/containers)
+2023-02-07 Working with container in VSCode [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers)
 
 ## Docker
 2023-01-21 Went through docker start guide
@@ -22,7 +22,7 @@ Programming, computing techniques, Algorithm trading notes, etc. I learned day t
 Went through [CMake tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html#introduction) - 2023-01-24
 
 ## LLVM
-LLVM framework - 2023-01-24.  
+2023-01-24 LLVM framework    
 2023-02-09 LLVM BasicBlocks, FunctionPass, Iterator.  
 2023-02-09 
 `align <n> or align(<n>)`  
