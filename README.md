@@ -4,9 +4,13 @@ Programming, computing techniques, Algorithm trading notes, etc. I learned day t
 ## TODO:
 - [ ]  list timestamp at the beginning
 - [ ]  make a local repository
+- [ ]  set up personal dev env
 
 ## VSCode
 2023-02-07 Working with container in VSCode [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers)
+
+## Homebrew
+2023-02-11 Learning homebrew: MacOS package manager. 
 
 ## Docker
 2023-01-21 Went through docker start guide
