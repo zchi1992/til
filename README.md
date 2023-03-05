@@ -58,10 +58,11 @@ Pandas library以及数据存储和读取方式 - 2023-01-15
 Array and LinkedList - 2022-12-28
 
 ## Software Testing
-Fuzzing - 2023-01-20
-Korat - test generation tools - 2023-01-30
-Randoop - test generation tools - 2023-01-31
-2023-02-04 Dataflow analysis: Reaching Definition Analysis, Available Expression Analysis, Live Variable Analysis, Very Busy Expression Analysis
+Fuzzing - 2023-01-20  
+Korat - test generation tools - 2023-01-30  
+Randoop - test generation tools - 2023-01-31  
+2023-02-04 Dataflow analysis: Reaching Definition Analysis, Available Expression Analysis, Live Variable Analysis, Very Busy Expression Analysis  
+2023-03-05 Learned Z3 and went over [Z3 tutorial](https://github.com/philzook58/z3_tutorial)
 
 ## Algorithm Trading and HFT
 上周完成了Order Imbalance分析 - 2023-01-16
