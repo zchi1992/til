@@ -5,6 +5,10 @@ Programming, computing techniques, Algorithm trading notes, etc. I learned day t
 - [ ]  list timestamp at the beginning
 - [ ]  make a local repository
 - [ ]  set up personal dev env
+- [ ]  write a technical document for personal dev environment so steps are not forgotten
+
+## Markdown
+2023-03-05 Markdown [Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 ## VSCode
 2023-02-07 Working with container in VSCode [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers)
