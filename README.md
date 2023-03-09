@@ -38,6 +38,11 @@ Went through [CMake tutorial](https://cmake.org/cmake/help/latest/guide/tutorial
 
 Note that this attribute has additional semantics when combined with the byval or preallocated attribute, which are documented there.  
 
+## Z3: SMT(Satisfiability Modulo Theories) Solver
+2023-03-10 Z3 us a functional programming languaes specialized in logical modeling and theorem proving. 
+- [Z3 API in Python](https://microsoft.github.io/z3guide/programming/Z3%20Python%20-%20Readonly/Introduction)
+- [Z3 Guide](https://www.philipzucker.com/z3-rise4fun/guide.html)
+
 ## Clang
 Went through [Make/Makefile intro](https://www.gnu.org/software/make/manual/html_node/Introduction.html) - 2023-01-24
 
