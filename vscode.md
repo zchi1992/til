@@ -10,3 +10,5 @@ docker start [container id]
 2. in vscode, attach to the running container from Command Palette
 
 More details about Dev Container is [here](https://code.visualstudio.com/docs/devcontainers/containers)
+
+## Python debugging
