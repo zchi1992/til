@@ -24,6 +24,7 @@ Programming, computing techniques, Algorithm trading notes, etc. I learned day t
 2023-02-08 Difference between `std::vector` and `std::array`.  
 2023-02-09 Access Modifier: public, private, protected, friends.  
 2023-02-09 keywords: virtue, using, static, namespace
+2023-03-27 [c++ reference](https://cplusplus.com/reference/string/)
 
 ## Qt Framework
 2023-03-12 [Qt Framework](https://www.qt.io/product/framework)
@@ -50,6 +51,8 @@ Went through [Make/Makefile intro](https://www.gnu.org/software/make/manual/html
 
 ## Python
 Pandas library以及数据存储和读取方式 - 2023-01-15
+
+2023-05-20 Useful python packages
 
 ## Linux/Unix
 ### 2023-02-06 Linux file descriptor/redirection
