@@ -45,7 +45,20 @@ args = parser.parse_args()
 
 * Process Pools
 
+### `asyncio` 
+[Learn Python's AsyncIO - a deep dive on AsyncIO ecosystem](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)  
+[]()  
+__important concepts__:  
+* `async` introduces a native coroutine or an asynchronous generator
+* `await` passes function control back to the event loop
+* coroutine  
+ coroutine is a function that can suspend its execution before reaching return, and it can indirectly pass control to another coroutine for some time.
+
 ## Python Global Interpret Lock(GIL)
 
+## Python Concurrency
+
+## Some useful python reference websites/blogs
+* [Real Python](https://realpython.com/)
 
 

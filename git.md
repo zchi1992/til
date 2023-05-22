@@ -16,7 +16,8 @@ Change the current working directory to the local repository where you want to c
 `git add .` or `git add [file1] [file2] ...`: add all files to the staging area or git index  
 `git commit [message]`: commit all files that permanently store content of the index into the repository  
 `git status`: show status of staging  
-`git diff --cached`
+`git diff --cached`  
+`git push origin`: push local branches to remote repository (origin)
 
 ## config git proxy
 Add below socks depending on VPN setup  
