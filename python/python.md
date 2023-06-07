@@ -41,18 +41,23 @@ args = parser.parse_args()
 
 ### `pathlib` module offers classess representing file system paths for different operating systems
 
-### `multiprocessing` is python concurrency package that supports both local and remote concurrency
+### `multiprocessing` is python concurrency package that supports both local and remote concurrency 
 
 * Process Pools
+* `class multiprocessing.pool.AsyncResult`
 
 ### `asyncio` 
 [Learn Python's AsyncIO - a deep dive on AsyncIO ecosystem](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)  
-[]()  
+
 __important concepts__:  
 * `async` introduces a native coroutine or an asynchronous generator
 * `await` passes function control back to the event loop
 * coroutine  
  coroutine is a function that can suspend its execution before reaching return, and it can indirectly pass control to another coroutine for some time.
+* Task  
+`asyncio.create_task()`  
+* Event Loop  
+`asyncio.get_running_loop()` returns current running loop in the current OS thread
 
 ## Python Global Interpret Lock(GIL)
 
