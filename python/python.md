@@ -57,7 +57,32 @@ __important concepts__:
 * Task  
 `asyncio.create_task()`  
 * Event Loop  
-`asyncio.get_running_loop()` returns current running loop in the current OS thread
+`asyncio.get_running_loop()` returns current running loop in the current OS thread  
+`loop.call_at()` schedules _callback_ to be called at the given absolute timestamp _when_
+* `DatagramTransport`  
+A transport for datagram (UDP) connections.
+* `Coroutine`  
+[A great example about how to use corouting via asyncio](https://docs.python.org/3/library/asyncio-task.html#coroutine)
+* `asyncio.Handle`
+A callback wrapper object to cancel the callback later
+
+### `mmap`
+* Memory-Mapped Files  
+[File I/O with memory mapping using Python mmap](https://www.youtube.com/watch?v=ky1n6luzL3Y)  
+Note: mmap operates in a byte manner  
+
+### `threading`
+* Thread  
+* Daemon Thread
+
+### `signal`
+Python signal handler package
+
+### `matplotlib`
+
+
+## Python Class
+* What Is `__slots__` ? The __slots__ declaration allows us to explicitly declare data members, causes Python to reserve space for them in memory, and prevents the creation of __dict__ and __weakref__ attributes. It also prevents the creation of any variables that aren't declared in __slots__.
 
 ## Python Global Interpret Lock(GIL)
 
