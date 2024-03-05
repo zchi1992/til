@@ -20,6 +20,9 @@
 ### pip with proxy
 Be careful about `all_proxy` and `ALL_PROXY` setup in `.bashrc` file.
 
+## Python language features
+### generator
+
 ## Python module 
 `__all__` controls what could be imported from a module via `from module import *`
 
@@ -29,6 +32,15 @@ Be careful about `all_proxy` and `ALL_PROXY` setup in `.bashrc` file.
 [What are type hints in Python 3.5?](https://stackoverflow.com/questions/32557920/what-are-type-hints-in-python-3-5/32558710#32558710)
 
 ## Python useful packages
+### String/Regex/Unicode operation related: `re`, `unicodedata`, `regex`
+`translate()` is fast for nontrivial character-to-character remapping or deletion
+
+### Date/Time/Calendar related: `calendar`
+### System/OS related: `sys`, `os`
+
+### `collections`
+__defaultdict__ class is almost same as built-in __dict__ class except __defaultdict__ has default values for keys thus won't raise a __KeyError__
+
 ### `argparse` module to write user-friendly command line interfaces
 
 ```
@@ -79,7 +91,6 @@ Note: mmap operates in a byte manner
 Python signal handler package
 
 ### `matplotlib`
-
 
 ## Python Class
 * What Is `__slots__` ? The __slots__ declaration allows us to explicitly declare data members, causes Python to reserve space for them in memory, and prevents the creation of __dict__ and __weakref__ attributes. It also prevents the creation of any variables that aren't declared in __slots__.
